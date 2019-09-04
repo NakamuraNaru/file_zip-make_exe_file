@@ -1,0 +1,12 @@
+C:\Users\p000527530\source\repos\zipUnzip\bin\Release\netcoreapp2.1\zipUnzip.deps.json
+C:\Users\p000527530\source\repos\zipUnzip\bin\Release\netcoreapp2.1\zipUnzip.runtimeconfig.json
+C:\Users\p000527530\source\repos\zipUnzip\bin\Release\netcoreapp2.1\zipUnzip.runtimeconfig.dev.json
+C:\Users\p000527530\source\repos\zipUnzip\bin\Release\netcoreapp2.1\zipUnzip.dll
+C:\Users\p000527530\source\repos\zipUnzip\bin\Release\netcoreapp2.1\zipUnzip.pdb
+C:\Users\p000527530\source\repos\zipUnzip\bin\Release\netcoreapp2.1\Ionic.Zip.dll
+C:\Users\p000527530\source\repos\zipUnzip\obj\Release\netcoreapp2.1\zipUnzip.csproj.CoreCompileInputs.cache
+C:\Users\p000527530\source\repos\zipUnzip\obj\Release\netcoreapp2.1\zipUnzip.AssemblyInfoInputs.cache
+C:\Users\p000527530\source\repos\zipUnzip\obj\Release\netcoreapp2.1\zipUnzip.AssemblyInfo.cs
+C:\Users\p000527530\source\repos\zipUnzip\obj\Release\netcoreapp2.1\zipUnzip.csproj.CopyComplete
+C:\Users\p000527530\source\repos\zipUnzip\obj\Release\netcoreapp2.1\zipUnzip.dll
+C:\Users\p000527530\source\repos\zipUnzip\obj\Release\netcoreapp2.1\zipUnzip.pdb

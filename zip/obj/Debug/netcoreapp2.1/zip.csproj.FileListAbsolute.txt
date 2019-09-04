@@ -1,0 +1,11 @@
+C:\Users\p000527530\source\repos\zip\bin\Debug\netcoreapp2.1\zip.deps.json
+C:\Users\p000527530\source\repos\zip\bin\Debug\netcoreapp2.1\zip.runtimeconfig.json
+C:\Users\p000527530\source\repos\zip\bin\Debug\netcoreapp2.1\zip.runtimeconfig.dev.json
+C:\Users\p000527530\source\repos\zip\bin\Debug\netcoreapp2.1\zip.dll
+C:\Users\p000527530\source\repos\zip\bin\Debug\netcoreapp2.1\zip.pdb
+C:\Users\p000527530\source\repos\zip\obj\Debug\netcoreapp2.1\zip.csproj.CoreCompileInputs.cache
+C:\Users\p000527530\source\repos\zip\obj\Debug\netcoreapp2.1\zip.AssemblyInfoInputs.cache
+C:\Users\p000527530\source\repos\zip\obj\Debug\netcoreapp2.1\zip.AssemblyInfo.cs
+C:\Users\p000527530\source\repos\zip\obj\Debug\netcoreapp2.1\zip.dll
+C:\Users\p000527530\source\repos\zip\obj\Debug\netcoreapp2.1\zip.pdb
+C:\Users\p000527530\source\repos\zip\obj\Debug\netcoreapp2.1\zip.csprojAssemblyReference.cache

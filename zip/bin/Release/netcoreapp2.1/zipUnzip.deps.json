@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "zipUnzip/1.0.0": {
+        "dependencies": {
+          "Ionic.Zip": "1.9.1.5"
+        },
+        "runtime": {
+          "zipUnzip.dll": {}
+        }
+      },
+      "Ionic.Zip/1.9.1.5": {
+        "runtime": {
+          "Ionic.Zip.dll": {
+            "assemblyVersion": "1.9.1.5",
+            "fileVersion": "1.9.1.5"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zipUnzip/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ionic.Zip/1.9.1.5": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
