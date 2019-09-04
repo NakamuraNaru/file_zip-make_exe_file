@@ -1,0 +1,11 @@
+C:\Users\p000527530\source\repos\makeExeFile\bin\Debug\netcoreapp2.1\makeExeFile.deps.json
+C:\Users\p000527530\source\repos\makeExeFile\bin\Debug\netcoreapp2.1\makeExeFile.runtimeconfig.json
+C:\Users\p000527530\source\repos\makeExeFile\bin\Debug\netcoreapp2.1\makeExeFile.runtimeconfig.dev.json
+C:\Users\p000527530\source\repos\makeExeFile\bin\Debug\netcoreapp2.1\makeExeFile.dll
+C:\Users\p000527530\source\repos\makeExeFile\bin\Debug\netcoreapp2.1\makeExeFile.pdb
+C:\Users\p000527530\source\repos\makeExeFile\obj\Debug\netcoreapp2.1\makeExeFile.csprojAssemblyReference.cache
+C:\Users\p000527530\source\repos\makeExeFile\obj\Debug\netcoreapp2.1\makeExeFile.csproj.CoreCompileInputs.cache
+C:\Users\p000527530\source\repos\makeExeFile\obj\Debug\netcoreapp2.1\makeExeFile.AssemblyInfoInputs.cache
+C:\Users\p000527530\source\repos\makeExeFile\obj\Debug\netcoreapp2.1\makeExeFile.AssemblyInfo.cs
+C:\Users\p000527530\source\repos\makeExeFile\obj\Debug\netcoreapp2.1\makeExeFile.dll
+C:\Users\p000527530\source\repos\makeExeFile\obj\Debug\netcoreapp2.1\makeExeFile.pdb
